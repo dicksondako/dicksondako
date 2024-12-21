@@ -1,4 +1,8 @@
-## Hi there 👋
+
+👋 Hi, I’m @dicksondako
+👀 I’m interested in Laravel, React Native and MySQL Database Admin.
+💞️ I’m looking to collaborate on any open source
+📫 How to reach me: dicksondako@gmail.com
 
 <!--
 **dicksondako/dicksondako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
