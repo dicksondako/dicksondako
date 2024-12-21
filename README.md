@@ -1,5 +1,5 @@
 
--👋 Hi, I’m @dicksondako
+👋 Hi, I’m @dicksondako
 - 👀 I’m interested in Laravel, React Native and MySQL Database Admin.
 - 💞️ I’m looking to collaborate on any open source
 - 📫 How to reach me: dicksondako@gmail.com
