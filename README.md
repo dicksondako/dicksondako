@@ -1,6 +1,6 @@
 
 👋 Hi, I’m @dicksondako
-- 👀 I’m interested in Laravel, React Native and MySQL Database Admin.
+- 👀 I’m interested in Laravel, React Native and Database Administrator.
 - 💞️ I’m looking to collaborate on any open source
 - 📫 How to reach me: dicksondako316@gmail.com
 
